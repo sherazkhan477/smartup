@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "136126842311",
+    "project_id": "smartup-746d3",
+    "storage_bucket": "smartup-746d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136126842311:android:47c377889a37b56e0f05e2",
+        "android_client_info": {
+          "package_name": "com.example.smartup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoQNTh3GNIxHe070gja7yZLGcRWnHXtnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136126842311:android:6648773b67e5d30f0f05e2",
+        "android_client_info": {
+          "package_name": "com.smartup.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoQNTh3GNIxHe070gja7yZLGcRWnHXtnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

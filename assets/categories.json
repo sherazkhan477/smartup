@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Home Services",
+    "icon": 59651
+  },
+  {
+    "name": "Transport",
+    "icon": 58849
+  },
+  {
+    "name": "Pets",
+    "icon": 60220
+  },
+  {
+    "name": "Health & Fitness",
+    "icon": 59650
+  },
+  {
+    "name": "Food & Events",
+    "icon": 58145
+  },
+  {
+    "name": "Technical Support",
+    "icon": 59648
+  },
+  {
+    "name": "Tutoring & Education",
+    "icon": 59613
+  },
+  {
+    "name": "Retail & Sales",
+    "icon": 59583
+  },
+  {
+    "name": "Cleaning & Housekeeping",
+    "icon": 60263
+  },
+  {
+    "name": "Delivery & Logistics",
+    "icon": 58855
+  },
+  {
+    "name": "Childcare & Babysitting",
+    "icon": 59679
+  },
+  {
+    "name": "Creative & Arts",
+    "icon": 59556
+  },
+  {
+    "name": "Hospitality & Hotels",
+    "icon": 59564
+  },
+  {
+    "name": "Freelancing & Remote Work",
+    "icon": 59641
+  },
+  {
+    "name": "Events & Promotion",
+    "icon": 59699
+  },
+  {
+    "name": "Agriculture & Gardening",
+    "icon": 60244
+  }
+]
